@@ -12,7 +12,7 @@
     <input type="text" name="rif" placeholder="rif" value="J-">
     <input type="text" name="tel" placeholder="telefono">
     <input type="text" name="email" placeholder="email">
-    <input type="text" name="direc" placeholder="direccion">
+    <input type="date" name="fecha">
     <input type="submit">       
     
     

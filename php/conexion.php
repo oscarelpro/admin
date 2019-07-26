@@ -1,7 +1,7 @@
 <?php
 
 $host="localhost";
-$dbname="nenss";
+$dbname="bd_admin";
 $user="postgres";
 $pass="12345678";
 
